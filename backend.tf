@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
-  bucket = "value"
-  key = "value"
-  region = "value"
+    bucket = "value"
+    key    = "value"
+    region = "value"
   }
 }
